@@ -1,2 +1,1 @@
-# GeekforGeeks-Solution
-This is a repo where you can find the solution of many coding challenges of geekforgeeks.
+This was noly for test purpose , Hope you will not find it useful
